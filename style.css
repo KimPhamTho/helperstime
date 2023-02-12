@@ -1,0 +1,35 @@
+body{
+    background-color: #A1CDA1;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+nav{
+    background-color: #89A899;
+}
+.header a{ text-decoration: none;}
+
+.img-logo{
+  height: 100px;
+}
+.d-flex{display: flex;}
+.flex-sb{
+    justify-content: space-between;
+}
+.header {
+    align-items: center;
+    margin-bottom: 70px;
+}
+.container {
+    width: 1140px;
+    margin: 0 auto;
+}
+.call{ background-color: #8489BE;
+
+}
+
+p{ margin: 0;
+    text-align: right;
+
+
+
+}
