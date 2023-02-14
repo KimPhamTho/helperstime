@@ -5,6 +5,7 @@ body{
 }
 nav{
     background-color: #89A899;
+    margin: 0;
 }
 .header a{ text-decoration: none;}
 
